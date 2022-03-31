@@ -2,13 +2,13 @@
 <h1>Hi, I'm Amir Welcome to my page!</h1>
 
 <div id="badges">
-    <a href="https://www.linkedin.com/in/amirjfry/">
+    <a target="_blank" href="https://www.linkedin.com/in/amirjfry/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://codepen.io/amirjfry">
+    <a target="_blank" href="https://codepen.io/amirjfry">
         <img src="https://img.shields.io/badge/Codepen-white?style=for-the-badge&logo=codepen&logoColor=black" alt="Codepen Badge"/>
     </a>
-    <a href="https://dribbble.com/amirjafari">
+    <a target="_blank" href="https://dribbble.com/amirjafari">
         <img src="https://img.shields.io/badge/Dribbble-ea4c89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Codepen Badge"/>
     </a>
 </div>
