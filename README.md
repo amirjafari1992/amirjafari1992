@@ -42,9 +42,9 @@
     }
 </style>
 
-<div id="header">
+<div id="header" style="margin: 50px 0 25px;text-align: center;">
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="200"/>
-  <span class="header__title">Hi I'm Amir</span>
+  <span style="font-size: 25px;font-weight: bold;">Hi I'm Amir</span>
   <span class="header__subTitle">Welcome to my profile!</span>
 </div>
 
