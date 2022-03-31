@@ -14,11 +14,7 @@
     </a>
 </div>
 
-<div class="wrapper">
-    <div id="aboutMe">
-    <span class="aboutMe__title">About me</span>
-    <p>A Front-End Developer with several years of design and development experience in a broad range of industries including financial, e-commerce, electrical, software as well as startup companies. A person who is crazy about learning new things to be able to maximize development efficiency by adopting new technologies.</p>
-</div>
+A Front-End Developer with several years of design and development experience in a broad range of industries including financial, e-commerce, electrical, software as well as startup companies. A person who is crazy about learning new things to be able to maximize development efficiency by adopting new technologies.
 
 <div id="technologies">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
