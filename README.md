@@ -1,10 +1,6 @@
-
-
-<div id="header" style="margin: 50px 0 25px;text-align: center;">
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="200"/>
-  #Hi, I'm Amir
-  ###Welcome to my profile!
-</div>
+<img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="200"/>
+# Hi, I'm Amir
+### Welcome to my profile!
 
 <div id="badges">
     <a href="your-linkedin-URL">
