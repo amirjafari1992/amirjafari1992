@@ -1,51 +1,9 @@
-<style>
-    #header {
-        margin: 50px 0 25px;
-        text-align: center;
-        font-family: 'arial'
-    }
-    #header span {
-        display: block;
-        line-height: 1.2;
-    }
-    #header .header__title {
-        font-size: 25px;
-        font-weight: bold;
-    }
-    #header .header__subTitle {
-        font-size: 18px;
-        font-weight: 200;
-    }
 
-    #badges {
-        text-align: center;
-    }
-
-    .wrapper {
-        width: 50%;
-        min-width: 600px;
-        margin: 50px auto;
-    }
-    #aboutMe p {
-        text-align: justify;
-        margin: 0 0 25px;
-    }
-    .aboutMe__title {
-        font-size: 20px;
-        font-weight: bold;
-    }
-
-    #technologies {
-        display: flex;
-        justify-content: space-between;
-        flex-wrap: row-wrap;
-    }
-</style>
 
 <div id="header" style="margin: 50px 0 25px;text-align: center;">
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="200"/>
-  <span style="font-size: 25px;font-weight: bold;">Hi I'm Amir</span>
-  <span class="header__subTitle">Welcome to my profile!</span>
+  #Hi, I'm Amir
+  ###Welcome to my profile!
 </div>
 
 <div id="badges">
