@@ -1,17 +1,7 @@
 <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="200"/>
 <h1>Hi, I'm Amir Welcome to my page!</h1>
 
-<div id="badges">
-    <a target="_blank" href="https://www.linkedin.com/in/amirjfry/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a target="_blank" href="https://codepen.io/amirjfry">
-        <img src="https://img.shields.io/badge/Codepen-white?style=for-the-badge&logo=codepen&logoColor=black" alt="Codepen Badge"/>
-    </a>
-    <a target="_blank" href="https://dribbble.com/amirjafari">
-        <img src="https://img.shields.io/badge/Dribbble-ea4c89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Codepen Badge"/>
-    </a>
-</div>
+
 <br>
 
 A Front-End Developer with several years of design and development experience in a broad range of industries including financial, e-commerce, electrical, software as well as startup companies. A person who is crazy about learning new things to be able to maximize development efficiency by adopting new technologies.
